@@ -182,6 +182,18 @@ Exige investimento em armazenamento e I/O (NVMe/SSD recomendado) e configuraçã
 
 ---
 
+### 🔵 Ethereum
+
+Fichas técnicas dos principais clientes Full Node da rede Ethereum:
+
+| Cliente | Arquivo | Linguagem | Descrição |
+|---------|---------|-----------|-----------|
+| **Geth** | [`geth-ficha-tecnica.md`](./ethereum/geth-ficha-tecnica.md) | Go | Cliente oficial mais popular |
+| **Erigon** | [`erigon-ficha-tecnica.md`](./ethereum/erigon-ficha-tecnica.md) | Go + Rust | Otimizado para eficiência |
+| **Besu** | [`besu-ficha-tecnica.md`](./ethereum/besu-ficha-tecnica.md) | Java | Desenvolvido pela Hyperledger |
+
+---
+
 **📚 Pesquisa realizada por:** Juciley Costa  
 **📅 Última atualização:** Outubro 2025
 
