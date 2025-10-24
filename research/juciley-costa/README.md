@@ -13,8 +13,8 @@
   - [Bitcoin](#-bitcoin--bitcoin-core)
   - [Ethereum](#-ethereum)
   - [Solana](#-solana)
-  - [Stellar](#-stellar)
-  - [Kaspa](#-kaspa)
+  - [Stellar](#-stellar--stellar-core)
+  - [Kaspa](#-Kaspa--rusty-kaspa)
 
 ---
 
@@ -207,7 +207,7 @@ Stellar é uma blockchain de pagamentos rápidos baseada em **Stellar Consensus 
 
 ---
 
-### 🟢 Kaspa - rusty-kaspa
+### 🟢 Kaspa — rusty-kaspa
 
 Kaspa é uma blockchain baseada em um protocolo de consenso inovador chamado **BlockDAG (GHOSTDAG)**, que permite blocos paralelos e confirmações quase instantâneas. O nó completo é mantido pelo repositório `rusty-kaspa`, que é a implementação de referência atual do Kaspa full node, escrita em Rust e recomendada pela equipe do projeto. Ela traz melhorias de performance, moderniza o toolchain (builds, Protobuf/gRPC, Docker multi-arch) e é o caminho a seguir para operações de produção na rede Kaspa. Com o aumento do blockrate (Crescendo) e ferramentas de indexação incluídas, a operação exige atenção em I/O e storage, mas oferece alta taxa de blocos e confirmações rápidas — vantagens importantes para serviços que precisam de throughput.
 
