@@ -194,6 +194,14 @@ Fichas técnicas dos principais clientes Full Node da rede Ethereum:
 
 ---
 
+### 🟣 Solana
+
+O Solana Validator é um full node de alta performance projetado para validação rápida de transações e participação no consenso PoH + Tower BFT. Ideal para infraestrutura de DeFi, NFTs, DApps de alta frequência e staking. Exige hardware robusto, monitoramento constante e práticas de segurança rigorosas.
+
+**📄 Arquivo:** [`solana/solana-validator-ficha-tecnica.md`](./solana/solana-validator-ficha-tecnica.md)
+
+---
+
 **📚 Pesquisa realizada por:** Juciley Costa  
 **📅 Última atualização:** Outubro 2025
 
