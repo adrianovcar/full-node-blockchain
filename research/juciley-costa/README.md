@@ -13,7 +13,6 @@
   - [Bitcoin](#-bitcoin--bitcoin-core)
   - [Ethereum](#-ethereum)
   - [Solana](#-solana)
-  - [Polygon](#-polygon)
   - [Stellar](#-stellar)
   - [Kaspa](#-kaspa)
 
@@ -161,8 +160,6 @@ juciley-costa/
 │   └── besu-ficha-tecnica.md
 ├── solana/
 │   └── solana-validator-ficha-tecnica.md
-├── polygon/
-│   └── polygon-ficha-tecnica.md
 ├── stellar/
 │   └── stellar-core-ficha-tecnica.md
 ├── kaspa/
@@ -199,6 +196,14 @@ Fichas técnicas dos principais clientes Full Node da rede Ethereum:
 O Solana Validator é um full node de alta performance projetado para validação rápida de transações e participação no consenso PoH + Tower BFT. Ideal para infraestrutura de DeFi, NFTs, DApps de alta frequência e staking. Exige hardware robusto, monitoramento constante e práticas de segurança rigorosas.
 
 **📄 Arquivo:** [`solana/solana-validator-ficha-tecnica.md`](./solana/solana-validator-ficha-tecnica.md)
+
+---
+
+### 🟡 Stellar — Stellar Core
+
+Stellar é uma blockchain de pagamentos rápidos baseada em **Stellar Consensus Protocol (SCP)**, um protocolo de consenso federado (FBA). O Stellar Core é o software que mantém o ledger e participa do quorum.
+
+**📄 Arquivo:** [`stellar/stellar-core-ficha-tecnica.md`](./stellar/stellar-core-ficha-tecnica.md)
 
 ---
 
