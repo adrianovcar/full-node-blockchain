@@ -81,7 +81,7 @@ Erigon é um full node Ethereum otimizado para eficiência, velocidade e consult
 | **Full Sync** | ~500 GB |
 | **Archive** | 4-6 TB |
 
-> ��� **Diferencial:** Erigon usa até 80% menos disco que Geth no full sync
+> ⚡ **Diferencial:** Erigon usa até 80% menos disco que Geth no full sync
 
 ### Tempo de Sincronização
 
