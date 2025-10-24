@@ -109,7 +109,7 @@ graph LR
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│                   CICLO DE VIDA DE UMA TRANSAÇÃO             │
+│                   CICLO DE VIDA DE UMA TRANSAÇÃO            │
 └─────────────────────────────────────────────────────────────┘
 
   1️⃣  Criação
@@ -204,6 +204,14 @@ O Solana Validator é um full node de alta performance projetado para validaçã
 Stellar é uma blockchain de pagamentos rápidos baseada em **Stellar Consensus Protocol (SCP)**, um protocolo de consenso federado (FBA). O Stellar Core é o software que mantém o ledger e participa do quorum.
 
 **📄 Arquivo:** [`stellar/stellar-core-ficha-tecnica.md`](./stellar/stellar-core-ficha-tecnica.md)
+
+---
+
+### 🟢 Kaspa - rusty-kaspa
+
+Kaspa é uma blockchain baseada em um protocolo de consenso inovador chamado **BlockDAG (GHOSTDAG)**, que permite blocos paralelos e confirmações quase instantâneas. O nó completo é mantido pelo repositório `rusty-kaspa`, que é a implementação de referência atual do Kaspa full node, escrita em Rust e recomendada pela equipe do projeto. Ela traz melhorias de performance, moderniza o toolchain (builds, Protobuf/gRPC, Docker multi-arch) e é o caminho a seguir para operações de produção na rede Kaspa. Com o aumento do blockrate (Crescendo) e ferramentas de indexação incluídas, a operação exige atenção em I/O e storage, mas oferece alta taxa de blocos e confirmações rápidas — vantagens importantes para serviços que precisam de throughput.
+
+**📄 Arquivo:** [`kaspa/kaspa-ficha-tecnica.md`](./kaspa/kaspa-ficha-tecnica.md)
 
 ---
 
